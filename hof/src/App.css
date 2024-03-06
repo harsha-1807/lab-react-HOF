@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 5px;
+}
+
+.display-box{
+    border: 3px black solid;
+}
+li,ul{
+    color: blue;
+}
